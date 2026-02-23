@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafie Ashraf</h1>
 <h3 align="center">A passionate frontend website developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafie-r&label=Profile%20views&color=0e75b6&style=flat" alt="rafie-r" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafie-r" alt="rafie-r" /></a> </p>
 
 - 🔭 I’m currently working on **Educational Website, SeaShanty,**
