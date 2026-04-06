@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rafieashraf716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafieashraf716" height="30" width="40" /></a>
-<a href="https://discord.gg/Duck (code)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Duck (code)" height="30" width="40" /></a>
+<!--<a href="https://discord.gg/Duck (code)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Duck (code)" height="30" width="40" /></a>-->
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNsLkxrjQkldmZRbmnTZcftssrzqFcBvjCbWbmQSGdSZjXFmRXPsgdzDmjPGSnGgQRhsnB" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Gmail-Light.svg" alt="rafieashraf716@gmail.com" height="30" width="40" /></a>
 </p>
 
